@@ -19,7 +19,7 @@ export default function Root() {
 
     return (
         <>
-            <header>
+            <header className="text-3xl font-bold underline">
                 <nav>
                     <li>
                         <ul><NavLink to="/">Home</NavLink></ul>
