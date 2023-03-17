@@ -5,7 +5,7 @@ export default function Project() {
 
     return (
         <iframe 
-            src={`http://${url}.vercel.app`}
+            src={`https://${url}.vercel.app`}
             style={{width:'100%', height:'80vh'}}
         ></iframe>
     );
